@@ -1,0 +1,7 @@
+{
+  "policies": {
+    "EnterprisePoliciesEnabled": true,
+    "BlockAboutConfig": true,
+    "BlockAboutProfiles": true
+  }
+}
